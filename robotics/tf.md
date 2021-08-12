@@ -97,18 +97,18 @@ $$
 $$
 \left[
 \begin{matrix}
-^Wx\\^Wy\\^Wz
+^Wx\\^Wy\\^Wz\\1
 \end{matrix}
 \right]
 =
 ^{W}T_A
 \left[
 \begin{matrix}
-^Ax\\^Ay\\^Az
+^Ax\\^Ay\\^Az\\1
 \end{matrix}
 \right]
 $$
-它可以解释为将$\{A\}$系中的一个下标变换到$\{W\}$​系下标。
+它可以解释为将$\{A\}$系中的一个下标变换到$\{W\}$系下标。这里的下标增加了一个维度，这是齐次缩放的表示，即$[x,y,z]^T$等价于$[ax,ay,az,a]^T$。$a=1$时，相当于不缩放；$a=0$时，规定$[ax,ay,az]$是一个单位向量，用于表示方向。
 
 ### 左乘与右乘
 
