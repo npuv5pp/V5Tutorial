@@ -1,5 +1,6 @@
 * 参考资料
   * [视觉](reference/vision.md)
+  * [控制](reference/control.md)
 * 控制
   * [控制系统概述](control/overview.md)
   * [经典时域控制](control/time-domain-control.md)
