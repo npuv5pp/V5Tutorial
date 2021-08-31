@@ -4,7 +4,7 @@
 
 西北工业大学足球机器人基地V5++组技术入门教程，旨在便于新人了解入门基地基础技术。
 
-文档链接： https://npuv5pp.github.io/V5Tutorial/
+文档链接： https://tutorial.npu5v5.cn
 
 目前待补充更多内容。
 
@@ -42,6 +42,11 @@ V5Tutorial
 `control`文件夹包含自动控制原理，现代控制理论的一部分内容，也可参考pack文件夹中的链接进行学习
 
 `vision`文件夹包含视觉方面的入门知识
+
+## 其他
+
++ 参考资料下载站：[V5++参考资料下载站 (npu5v5.cn)](https://files.npu5v5.cn/)
++ V5++ Github 团队主页：[NWPU V5++ Robotics Team (github.com)](https://github.com/nwpu-v5-team)
 
 ## 贡献
 
