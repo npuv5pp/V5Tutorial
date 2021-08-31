@@ -1,7 +1,12 @@
 * 参考资料
+  * [C++](reference/C++.md)
+  * [Python](reference/python.md)
   * [视觉](reference/vision.md)
+  * [Git](reference/Git.md)
+  * [深度学习](reference/deeping-learning.md)
+  * [强化学习](reference/reinforcement-learning.md)
+  * [机器学习](reference/machine-learning.md)
   * [控制](reference/control.md)
-  * [其他](reference/others.md)
 * 控制
   * [控制系统概述](control/overview.md)
   * [经典时域控制](control/time-domain-control.md)
