@@ -19,7 +19,7 @@
 ## Learning OpenCV3
 
 + 作者：Adrian Kaehler & Gary Bradski
-+ 链接：[Learning OpenCV 3 (npu5v5.cn)](https://files.npu5v5.cn/视觉/Learning OpenCV_3rd.pdf)
++ 链接：[Learning OpenCV 3 (npu5v5.cn)](https://files.npu5v5.cn/%E8%A7%86%E8%A7%89/Learning%20OpenCV_3rd.pdf)
 
 
 

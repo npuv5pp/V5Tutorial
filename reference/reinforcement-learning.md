@@ -6,7 +6,7 @@
 
 + 作者：Richard S. Sutton and Andrew G. Barto
 
-+ 链接：[Reinforcement Learning.pdf (npu5v5.cn)](https://files.npu5v5.cn/强化学习/Reinforcement Learning.pdf)
++ 链接：[Reinforcement Learning.pdf (npu5v5.cn)](https://files.npu5v5.cn/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/Reinforcement%20Learning.pdf)
 
 
 
