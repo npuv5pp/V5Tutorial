@@ -1,20 +1,18 @@
 # 控制学参考资料
 
-百度网盘链接提取码统一为 **nwpu**
-
-
+控制学参考资料下载站：[控制 - V5++参考资料下载站 > 控制 (npu5v5.cn)](https://files.npu5v5.cn/控制/)
 
 ## 机器人学、机器视觉与控制——MATLAB基础
 
 + 作者：Peter Corke
-+ 链接：https://pan.baidu.com/s/1UCMpuR_t1zgTtRcSr4PK_w
++ 链接：[机器人学、机器视觉与控制.pdf (npu5v5.cn)](https://files.npu5v5.cn/控制/机器人学、机器视觉与控制.pdf)
 
 
 
 ## 自动控制原理
 
 + 作者：卢京潮
-+ 链接：https://pan.baidu.com/share/init?surl=EJAsPE35idBX9jiDSx86lw
++ 链接：[卢京潮自控.pdf (npu5v5.cn)](https://files.npu5v5.cn/控制/卢京潮自控.pdf)
 
 
 
