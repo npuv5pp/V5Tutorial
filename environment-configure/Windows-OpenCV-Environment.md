@@ -29,7 +29,7 @@
 
 ![新建并加入我们的bin路径][4]
 
-### 配置Visual Studio
+### 3.配置Visual Studio
 
 1. 新建一个C++类型的空项目，随便你如何命名，将模式调节为 **Debug x64**
 
@@ -67,7 +67,7 @@
 
 6. 最后我们点击确定，然后退出**属性编辑器**。
 
-### 测试OpenCV的配置
+### 4.测试OpenCV的配置
 
 + 在源文件中添加一个 **C++** 源程序，我添加的为 `main.cpp`  
 
@@ -115,7 +115,7 @@
 
   ![配置成功标志][14]
 
-### 参考链接
+### 5.参考链接
 
 + [VS2019 上配置 OpenCV4.2.0](https://www.jianshu.com/p/908551afa8fd)
 
@@ -134,3 +134,4 @@
 [12]: https://www.zzsqwq.cn/usr/uploads/2020/10/1938099554.png
 [13]: https://www.zzsqwq.cn/usr/uploads/2020/10/1150699358.jpg
 [14]: https://www.zzsqwq.cn/usr/uploads/2020/10/2092454279.png
+
