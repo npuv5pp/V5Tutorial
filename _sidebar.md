@@ -11,4 +11,5 @@
   * [机械臂](robotics/robotic_arm.md)
 * 环境配置
   * [CubeMX+simulink](environment-configure/CubeMX+simulink.md)
+  * [Visual Studio 2019 中 OpenCV 配置教程](environment-configure/Windows-OpenCV-Environment.md)
 

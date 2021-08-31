@@ -6,8 +6,8 @@
 
 > NWPU V5++ Tutorials
 
+- 团队介绍
 - 参考资料
-- 自制教程
 - 问题答疑
 
 [nwpu-v5-team](https://github.com/nwpu-v5-team)
