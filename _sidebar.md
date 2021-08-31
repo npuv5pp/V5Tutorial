@@ -1,5 +1,5 @@
 * 参考资料
-  * [C++](reference/C++.md)
+  * [C&C++](reference/C++.md)
   * [Python](reference/python.md)
   * [视觉](reference/vision.md)
   * [Git](reference/Git.md)
