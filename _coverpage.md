@@ -13,3 +13,6 @@
 [nwpu-v5-team](https://github.com/nwpu-v5-team)
 [Tutorial Github](https://github.com/npuv5pp/V5Tutorial)
 
+
+
+![](resource/logo/V5.jpg)
