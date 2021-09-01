@@ -6,7 +6,7 @@
 
 此外，近些年我们组还为仿真5V5开发了一个基于unity的仿真平台，使用起来比原本的比赛平台更舒适，观赏性也更高。
 
-![仿真5v5新平台](../resource/aboutus/simuro5v5.png/)
+![仿真5v5新平台](../resource/aboutus/simuro5v5.png)
 
 ## 技术需求
 
