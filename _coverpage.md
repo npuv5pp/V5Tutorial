@@ -2,7 +2,7 @@
 
 ![logo](resource/logo/V5++-logo-alpha.png)
 
-# V5++<small>V2021</small>
+# V5++
 
 > NWPU V5++ Tutorials
 
