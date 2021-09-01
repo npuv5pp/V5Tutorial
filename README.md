@@ -14,6 +14,7 @@
 
 ```shell
 V5Tutorial
+├── aboutus				      # 关于我们组
 ├── control				      # 控制相关
 ├── environment-configure     # 环境配置相关
 ├── examples				  # 示例代码
@@ -21,6 +22,7 @@ V5Tutorial
 ├── robotics				  # 机器人学
 ├── vision                    # 计算机视觉相关内容
 ├── resource				  # 文章中使用的图片素材
+│   ├── aboutus
 │   ├── control
 │   ├── logo
 │   └── robot
