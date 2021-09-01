@@ -1,3 +1,9 @@
+* 关于我们
+  * [团队介绍](aboutus/team.md)
+  * [项目：RoboMaster人工智能挑战赛](aboutus/RMUA.md)
+  * 项目：[无人机](aboutus/UAV.md)
+  * 项目：[仿真足球](aboutus/simuro.md)
+  * 项目：[仿真避障](aboutus/sim_obstacle_avoidance.md)
 * 参考资料
   * [C&C++](reference/C++.md)
   * [Python](reference/python.md)
