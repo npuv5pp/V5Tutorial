@@ -2,7 +2,7 @@
 
 ## 概述
 
-西北工业大学足球机器人基地V5++组技术入门教程，旨在便于新人了解入门基地基础技术。
+西北工业大学足球机器人基地 V5++ 组技术入门教程，旨在便于新人了解入门基地基础技术。
 
 文档链接： https://tutorial.npu5v5.cn
 
@@ -47,8 +47,9 @@ V5Tutorial
 
 ## 其他
 
-+ 参考资料下载站：[V5++参考资料下载站 (npu5v5.cn)](https://files.npu5v5.cn/)
++ 参考资料下载站：[足球机器人基地参考资料下载站 (npu5v5.cn)](https://files.npu5v5.cn/)
 + V5++ Github 团队主页：[NWPU V5++ Robotics Team (github.com)](https://github.com/nwpu-v5-team)
++ 此文档仓库：[npuv5pp/V5Tutorial](https://github.com/npuv5pp/V5Tutorial)
 
 ## 贡献
 

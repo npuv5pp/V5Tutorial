@@ -11,7 +11,7 @@
 - 问题答疑
 
 [nwpu-v5-team](https://github.com/nwpu-v5-team)
-[Tutorial Github](https://github.com/npuv5pp/V5Tutorial)
+[参考资料下载站](https://files.npu5v5.cn/)
 
 
 
