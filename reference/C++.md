@@ -4,7 +4,7 @@ C&C++ 参考资料下载站：[C++ - 足球机器人基地参考资料下载站 
 
 ## C&C++ 简介
 
->  **C++**是一种被广泛使用的计算机程序设计语言。它是一种通用[程序设计语言](https://zh.wikipedia.org/wiki/程式設計語言)，支持[多重编程模式](https://zh.wikipedia.org/wiki/多重编程范式)，例如[过程化程序设计](https://zh.wikipedia.org/wiki/过程式编程)、[数据抽象](https://zh.wikipedia.org/wiki/抽象化_(計算機科學))、[面向对象程序设计](https://zh.wikipedia.org/wiki/物件導向程式設計)、[泛型程序设计](https://zh.wikipedia.org/wiki/泛型程式設計)和[设计模式](https://zh.wikipedia.org/wiki/设计模式_(计算机))等。	
+>  C++是一种被广泛使用的计算机程序设计语言。它是一种通用[程序设计语言](https://zh.wikipedia.org/wiki/程式設計語言)，支持[多重编程模式](https://zh.wikipedia.org/wiki/多重编程范式)，例如[过程化程序设计](https://zh.wikipedia.org/wiki/过程式编程)、[数据抽象](https://zh.wikipedia.org/wiki/抽象化_(計算機科學))、[面向对象程序设计](https://zh.wikipedia.org/wiki/物件導向程式設計)、[泛型程序设计](https://zh.wikipedia.org/wiki/泛型程式設計)和[设计模式](https://zh.wikipedia.org/wiki/设计模式_(计算机))等。	
 >
 > ​																																							——Wikipedia
 
