@@ -7,6 +7,7 @@
 * 参考资料
   * [C&C++](reference/C++.md)
   * [Python](reference/python.md)
+  * [ROS](reference/ROS.md)
   * [视觉](reference/vision.md)
   * [Git](reference/Git.md)
   * [深度学习](reference/deeping-learning.md)
