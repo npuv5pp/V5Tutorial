@@ -31,7 +31,7 @@ jobs:
       - name: Run a multi-line script
         uses: contention/rsync-deployments@v1.0.0
         env:
-          DEPLOY_KEY: $${{ secrets.DEPLOY_KEY }}
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         with:
           args: "-avzr --delete root@zzsqwq.cn:/home/docs/tutorial/"
           
