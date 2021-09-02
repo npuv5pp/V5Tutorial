@@ -12,14 +12,15 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
+env:
+  DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
   deploy:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    container: lgatica/openssh-client
+    # container: lgatica/openssh-client
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -28,8 +29,13 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: |
-          cp  ${{ secrets.DEPLOY_KEY }} .
-          chmod 600 ./DEPLOY_KEY
-          ssh -o stricthostkeychecking=no -i ./DEPLOY_KEY root@zzsqwq.cn "rm -rf /home/docs/tutorial && mkdir /home/docs/tutorial"
-          scp -o stricthostkeychecking=no -r -i ./DEPLOY_KEY . root@zzsqwq.cn:/home/docs/tutorial/
+        uses: contention/rsync-deployments@v1.0.0
+        env:
+          DEPLOY_KEY: $${{ secrets.DEPLOY_KEY }}
+        with:
+          args: "-avzr --delete docs@zzsqwq.cn:~/tutorial/"
+          
+          # cp  ${{ secrets.DEPLOY_KEY }} .
+          # chmod 600 ./DEPLOY_KEY
+          # ssh -o stricthostkeychecking=no -i ./DEPLOY_KEY root@zzsqwq.cn "rm -rf /home/docs/tutorial && mkdir /home/docs/tutorial"
+          # scp -o stricthostkeychecking=no -r -i ./DEPLOY_KEY . root@zzsqwq.cn:/home/docs/tutorial/
