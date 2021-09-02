@@ -33,7 +33,7 @@ jobs:
         env:
           DEPLOY_KEY: $${{ secrets.DEPLOY_KEY }}
         with:
-          args: "-avzr --delete docs@zzsqwq.cn:~/tutorial/"
+          args: "-avzr --delete root@zzsqwq.cn:/home/docs/tutorial/"
           
           # cp  ${{ secrets.DEPLOY_KEY }} .
           # chmod 600 ./DEPLOY_KEY
