@@ -33,9 +33,9 @@ jobs:
         env:
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         with:
-          args: "-avzr --delete root@zzsqwq.cn:/home/docs/tutorial/"
+          args: "-avzr --delete www@zzsqwq.cn:/home/www/tutorial/"
           
           # cp  ${{ secrets.DEPLOY_KEY }} .
           # chmod 600 ./DEPLOY_KEY
-          # ssh -o stricthostkeychecking=no -i ./DEPLOY_KEY root@zzsqwq.cn "rm -rf /home/docs/tutorial && mkdir /home/docs/tutorial"
+          # ssh -o stricthostkeychecking=no -i ./DEPLOY_KEY www@zzsqwq.cn "rm -rf /home/docs/tutorial && mkdir /home/docs/tutorial"
           # scp -o stricthostkeychecking=no -r -i ./DEPLOY_KEY . root@zzsqwq.cn:/home/docs/tutorial/
