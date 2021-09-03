@@ -1,10 +1,10 @@
-# V5++ Tutorial
+# V5++ Tutorials
 
 ## 概述
 
 西北工业大学足球机器人基地 V5++ 组技术入门教程，旨在便于新人了解入门基地基础技术。
 
-文档链接： https://tutorial.npu5v5.cn
+文档链接： https://tutorials.npu5v5.cn
 
 目前待补充更多内容。
 
@@ -33,7 +33,9 @@ V5Tutorial
 └── _sidebar.md
 ```
 
-`reference`文件夹提供了一些外部引用资料，大文件以链接形式给出。
+`reference`文件夹提供了一些外部引用资料，大文件以链接形式给出
+
+`aboutus` 文件夹包含了一些包括我们组的介绍与项目说明
 
 `resource`文件夹包含一些图片素材，在文章中引用
 
