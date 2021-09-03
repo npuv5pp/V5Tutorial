@@ -4,6 +4,8 @@
   * [项目：无人机](aboutus/UAV.md)
   * [项目：仿真足球](aboutus/simuro.md)
   * [项目：仿真避障](aboutus/sim_obstacle_avoidance.md)
+* 问题答疑
+  * [2021秋季招新问题答疑](questions/2021-09.md)
 * 参考资料
   * [C&C++](reference/C++.md)
   * [Python](reference/python.md)
